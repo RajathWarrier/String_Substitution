@@ -1,3 +1,6 @@
+# String Substitution using a custom built C++ fstream class
+
+## Contents and Usage -
 ./executable -
 Has the executable for running the tests
 
@@ -10,6 +13,6 @@ The medium that uses custom_fstream to perform the string substitutions
 ./string_substitution_oo.cpp -
 Driver program (main)
 
-Running the tests -
+### Running the tests -
 1. cd run_script_from_in_here
 2. ../do_tests.bash ../executable/stringsuboo
